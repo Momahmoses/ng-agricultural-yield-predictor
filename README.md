@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-agricultural-yield-predictor&branch=main&mainModule=app.py)
+
 # 🌾 Nigeria Agricultural Yield Predictor
 
 ML-powered crop yield prediction for Nigerian smallholder farmers, combining **NDVI satellite data**, **weather and soil features**, **PySpark GBT models**, **Azure ML**, and a **Streamlit** farmer dashboard.
