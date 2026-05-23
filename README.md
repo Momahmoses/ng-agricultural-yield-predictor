@@ -1,11 +1,11 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-agricultural-yield-predictor&branch=main&mainModule=app.py)
 
-# 🌾 Nigeria Agricultural Yield Predictor
+# Nigeria Agricultural Yield Predictor
 
 ML-powered crop yield prediction for Nigerian smallholder farmers, combining **NDVI satellite data**, **weather and soil features**, **PySpark GBT models**, **Azure ML**, and a **Streamlit** farmer dashboard.
 
 ## Problem Statement
-Nigeria's agricultural sector employs 70% of the rural population but suffers from poor productivity — average maize yield is 1.7 t/ha vs 6+ t/ha globally. This tool helps extension officers and agri-fintech platforms predict yields per farm and identify the biggest production constraints.
+Nigeria's agricultural sector employs 70% of the rural population but suffers from poor productivity, average maize yield is 1.7 t/ha vs 6+ t/ha globally. This tool helps extension officers and agri-fintech platforms predict yields per farm and identify the biggest production constraints.
 
 ## Tech Stack
 | Layer | Technology |
@@ -41,8 +41,8 @@ streamlit run app.py
 - Farm records table with gradient styling
 
 ## Data Sources (Production)
-- **NAERLS** — National Agricultural Extension and Research Liaison Services
-- **FMARD** — Federal Ministry of Agriculture data
-- **Sentinel-2** — ESA NDVI rasters via Copernicus
-- **NIMET** — Weather station data
-- **NBS** — Agricultural survey data
+- **NAERLS**, National Agricultural Extension and Research Liaison Services
+- **FMARD**, Federal Ministry of Agriculture data
+- **Sentinel-2**, ESA NDVI rasters via Copernicus
+- **NIMET**, Weather station data
+- **NBS**, Agricultural survey data
